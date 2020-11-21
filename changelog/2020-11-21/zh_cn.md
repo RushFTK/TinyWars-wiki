@@ -1,4 +1,4 @@
-2020-11-21更新：
+2020-11-21更新：  
 ## 功能性更新
 - 增加了全部队属性面板 *by [babygogogo](https://github.com/Babygogogo) ([commit](https://github.com/Babygogogo/TinyWarsClient/commit/8874b158843e3d23f2edbcf86d98a90668bd53bf))*  
 
